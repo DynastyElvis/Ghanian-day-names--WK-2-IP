@@ -65,22 +65,22 @@ function getGender(){
         alert("You were born on " +dayNames[0] + " and Your akan name is " +maleNames[0]+"!"); // conditional cases for naming.
       }
       else if(dayValue == 2){
-        alert("You were born on "+dayNames[1] + " and Your akan name is " +maleNames[1]+"!");
+        alert("You were born on "+dayNames[1] + " and Your akan name is " +maleNames[1]+"!"); // conditional cases for naming
       }
       else if(dayValue == 3){
-        alert("You were born on " +dayNames[2]+ " and Your akan name is " +maleNames[2]+"!");
+        alert("You were born on " +dayNames[2]+ " and Your akan name is " +maleNames[2]+"!");// conditional cases for naming
       }
       else if(dayValue == 4){
-        alert("You were born on "+dayNames[3] +  " and Your akan name is " +maleNames[3]+"!");
+        alert("You were born on "+dayNames[3] +  " and Your akan name is " +maleNames[3]+"!");// conditional cases for naming
       }
       else if(dayValue == 5){
-        alert("You were born on "+dayNames[4] +  " and Your akan name is " +maleNames[4]+"!");
+        alert("You were born on "+dayNames[4] +  " and Your akan name is " +maleNames[4]+"!"); // conditional cases for naming
       }
       else if(dayValue == 6){
-        alert("You were born on "+dayNames[5] +  " and Your akan name is " +maleNames[5]+"!");
+        alert("You were born on "+dayNames[5] +  " and Your akan name is " +maleNames[5]+"!");// conditional cases for naming
       }
       else if(dayValue == -0){
-        alert("You were born on "+dayNames[6] + " and Your akan name is " +maleNames[6]+"!");
+        alert("You were born on "+dayNames[6] + " and Your akan name is " +maleNames[6]+"!");// conditional cases for naming
       }
     break;
     case "female":
