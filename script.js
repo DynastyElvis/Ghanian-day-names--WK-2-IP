@@ -82,6 +82,9 @@ function getGender(){
       else if(dayValue == -0){
         alert("You were born on "+dayNames[6] + " and Your akan name is " +maleNames[6]+"!");// conditional cases for naming
       }
+ 
+      // if otherwise, BREAK THE CONDITIONAL SEQUENCE
+
     break;
     case "female":
       if (dayValue == 1){
@@ -107,10 +110,12 @@ function getGender(){
       }
     break
     default:
-          
+    
+      // if otherwise, BREAK THE CONDITIONAL SEQUENCE      
   }
 }
 function findName(){
   dayValue = calculateDayValue();
   getGender();
 }
+// END
