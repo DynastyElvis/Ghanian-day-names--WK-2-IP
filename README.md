@@ -33,6 +33,9 @@ KIPKEMOI RONO ELVIS
 ## Description
 This document will detail about myself, background information, skills, experiences, educaation and contact information of kipkemoi elvis rono
 
+## Screenshot
+<img src="https://github.com/DynastyElvis/Ghanian-day-names--WK-2-IP/blob/main/images/Screenshot%20from%202022-03-07%2000-08-51.png" width="800px" height="400px">
+
 [LIVE page >>](https://dynastyelvis.github.io/Ghanian-day-names--WK-2-IP/)
 
 
