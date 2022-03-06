@@ -39,8 +39,15 @@ This document will detail about myself, background information, skills, experien
 [Go Back to the top](#Ghanian-day-names--WK-2-IP)
 
 ## Installation
+* Open Terminal {Ctrl+Alt+T}
 
-To access the site, open your browser and put in the link URL.
+* git clone ```https://github.com/DynastyElvis/Ghanian-day-names--WK-2-IP```
+
+* cd Ghanian-day-names--WK-2-IP
+
+* code . or atom . based on the text editor you have.
+
+* To access the site, open your browser and put in the link URL.
 
 [Go Back to the top](#Ghanian-day-names--WK-2-IP)
 ## Requirements
