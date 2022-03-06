@@ -28,7 +28,7 @@ KIPKEMOI RONO ELVIS
 
 [Go Back to the top](#Ghanian-day-names--WK-2-IP)
 ## Description
-The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born. These "day names" have further meanings concerning the soul and character of the person
+The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born. These "day names" have further meanings concerning the soul and character of the person. Hence, A Web program that takes a user's birthdate and determines the day of the week on which they were born, then generates their Akan Name based on their gender.
 
 ## Screenshot
 <img src="https://github.com/DynastyElvis/Ghanian-day-names--WK-2-IP/blob/main/images/Screenshot%20from%202022-03-07%2000-08-51.png" width="800px" height="400px">
