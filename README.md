@@ -49,10 +49,6 @@ This document will detail about myself, background information, skills, experien
 
 * To access the site, open your browser and put in the link URL.
 
-[Go Back to the top](#Ghanian-day-names--WK-2-IP)
-## Requirements
-
-Web browser
 
 [Go Back to the top](#Ghanian-day-names--WK-2-IP)
 
