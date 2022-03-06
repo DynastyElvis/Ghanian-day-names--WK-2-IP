@@ -43,7 +43,7 @@ This document will detail about myself, background information, skills, experien
 
 * git clone ```https://github.com/DynastyElvis/Ghanian-day-names--WK-2-IP```
 
-* cd Ghanian-day-names--WK-2-IP
+* cd ```Ghanian-day-names--WK-2-IP```
 
 * code . or atom . based on the text editor you have.
 
