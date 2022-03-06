@@ -28,7 +28,7 @@ KIPKEMOI RONO ELVIS
 
 [Go Back to the top](#Ghanian-day-names--WK-2-IP)
 ## Description
-This document will detail about myself, background information, skills, experiences, educaation and contact information of kipkemoi elvis rono
+The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born. These "day names" have further meanings concerning the soul and character of the person
 
 ## Screenshot
 <img src="https://github.com/DynastyElvis/Ghanian-day-names--WK-2-IP/blob/main/images/Screenshot%20from%202022-03-07%2000-08-51.png" width="800px" height="400px">
