@@ -5,8 +5,11 @@ var dayNames = ["Sunday","Monday", "Tuesday", "Wednesday", "Thursday", "Friday",
 var maleNames = ["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw", "Kofi", "Kwame"];//male names array
 var femaleNames = ["Akosua","Adwoa","Abenaa","Akua"," Yaa","Afua","Ama"];//female names array
 
+
+//validation function to pick gender
+
 function validate() {
-  var genders = document.getElementsByName("gender");
+  var genders = document.getElementsByName("gender"); // gender element declaration
   if( document.myForm.year.value == "" || document.myForm.year.value.length !=4 || document.myForm.year.value >2100 || document.myForm.year.value <=1900) {
      alert( "Please provide a valid year of birth! eg 2019" );
      document.myForm.year.focus() ;
@@ -34,6 +37,8 @@ function validate() {
   
 }
 
+//validation function to calculate day value
+
 function calculateDayValue(){
   year = document.getElementById("year").value;
   CC = parseInt(year.substring(0,2));
@@ -44,6 +49,8 @@ function calculateDayValue(){
   console.log(d);
   return (Math.floor(d));
 }
+
+//validation function getGender
 
 function getGender(){
   var genders = document.getElementsByName("gender");
@@ -56,10 +63,11 @@ function getGender(){
   else{
     return false;
   }
+  // CONDITIONAL SWITCH CASES TO BREAK
   switch(gender){
     case "male":
       if (dayValue == 1){
-        alert("You were born on " +dayNames[0] + " and Your akan name is " +maleNames[0]+"!");
+        alert("You were born on " +dayNames[0] + " and Your akan name is " +maleNames[0]+"!"); //conditional case for gender>>>downwards
       }
       else if(dayValue == 2){
         alert("You were born on "+dayNames[1] + " and Your akan name is " +maleNames[1]+"!");
@@ -79,7 +87,7 @@ function getGender(){
       else if(dayValue == -0){
         alert("You were born on "+dayNames[6] + " and Your akan name is " +maleNames[6]+"!");
       }
-    break;
+    break; //conditional cases to break for negativity
     case "female":
       if (dayValue == 1){
         alert("You were born on "+dayNames[0] + " and Your akan name is  " +femaleNames[0]+"!");
